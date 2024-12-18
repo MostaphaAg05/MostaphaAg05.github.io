@@ -1,0 +1,68 @@
+body{
+    background-color:bisque;
+}
+#img{
+    height: 250px;
+    width: 100%;
+    /* max-width: 600px; */
+    border-radius: 50px;
+    
+}
+#vs{
+    width: 60%;
+    margin: 4px auto;
+    border: 2px solid white;
+    background-color:peru;
+}
+div{
+    padding: 50px;
+    border-radius: 50px;
+}
+#mo{
+    color: rgb(112, 46, 46);
+}
+#id{
+    color: rgb(235, 195, 142);
+}
+#dr{
+    color: rgba(104, 63, 1, 0.806);
+}
+#mre{
+    color: rgba(71, 45, 5, 0.806);
+}
+#dfe{
+    color: rgb(225, 197, 162);
+}
+#fh{
+    color: bisque;
+}
+#zw{
+    text-decoration:none;
+    color:white ;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 50%;
+}
+a:hover{
+    background-color: rgb(249, 138, 2);
+    color: orange;
+}
+#sav{
+    color: rgb(137, 76, 2);
+}
+#der{
+    color: antiquewhite;
+}
+#gr{
+    color:rgb(241, 205, 158);
+}
+#tr{
+    color: rgb(227, 189, 140);
+}
+#yu{
+    color: rgb(255, 205, 138);
+}
+#gu{
+    color: burlywood;
+}

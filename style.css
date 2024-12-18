@@ -1,0 +1,50 @@
+h1{
+    color: red;
+}
+p#ss{
+    color: aliceblue;
+   background-color: blueviolet; 
+}
+p#main{
+    color: blue;
+    background-color: yellow;
+}
+h2{
+    color: green;
+}
+p.ps{
+color: blue;    
+}
+p#jj{
+color: blueviolet;
+}
+p#dd{
+    color: aqua;
+}
+p.cc{
+    color: forestgreen;
+}
+p.ps{
+    background-color: palevioletred;
+}
+p#dd{
+    background-color: black;
+}
+table{
+    width: 100px;
+}
+td#A{
+    background-color: red;
+}
+td#b{
+    background-color: pink;
+}
+td#c{
+background-color: blue;
+}
+td#d{
+    background-color: black;
+}
+td#e{
+    background-color: yellow;
+}

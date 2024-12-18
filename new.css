@@ -1,0 +1,38 @@
+
+body{
+    background-color: blueviolet;
+}
+
+.p1{
+ font-family: 'Courier New', Courier, monospace;
+}
+
+#cv{
+    color: rgb(227, 75, 75); font-family:'Courier New', Courier, monospace; font-size:  59px;;
+}
+h2{
+ color:lightcoral ;
+}
+h3{color:rgb(239, 95, 95)
+
+}
+#hm{
+   width: 400px; 
+   height:300px;
+}
+ps{
+    font-style: italic;
+}
+.ood{
+    background-color: rgb(185, 114, 226);
+    font-weight:bold;
+    font-size:medium;
+    font-style: oblique;
+    text-decoration:  aquamarine double underline;
+}
+#pt{
+ border-style: double;
+ border-width: 6px;
+ border-bottom: dotted;
+
+}

@@ -1,0 +1,54 @@
+body{
+    background-color:black;
+}
+#main{
+    color:green;
+}
+#main{
+    color:green;
+    font-family: "Ole", cursive;
+        font-weight: 400;
+        font-style: normal;font-size: 40px;
+}
+#hx{
+    color:white;
+}
+#serv{
+    background-color: green;
+}
+#ax{
+    color: darkblue;
+}
+#nx{
+    color: orange;
+}
+#mx{
+    color: orange;
+}
+#dx{
+    color: orange;
+}
+#zx{
+    color: orange;
+}
+#lx{
+    color: black;
+}
+#vx{
+    color:white;
+}
+#sav{
+    text-decoration: none;
+    color:white ;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 50%;
+}
+a:hover{
+    background: red;
+    color:black;
+}
+#wx{
+    color: white;
+}
