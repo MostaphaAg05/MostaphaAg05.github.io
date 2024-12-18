@@ -1,3 +1,18 @@
-{
-    
+body{
+    background: #081b29;
+}
+h1{
+    color: #08d665;
+}
+a{
+    text-decoration:none;
+    color:#00abf0 ;
+    font-weight: bold;
+    border: 5px solid;
+    padding: 30px;
+    border-radius: 29%;
+}
+a:hover{
+    background: #00abf0;
+    color: #081b29;
 }
